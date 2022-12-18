@@ -1,6 +1,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
+[![Go Report Card](https://goreportcard.com/badge/github.com/TheNakedZealot/epg_exporter)][goreportcard]
 
 [license]: https://opensource.org/licenses/Apache-2.0
+[goreportcard]: https://goreportcard.com/report/github.com/TheNakedZealot/epg_exporter
 
 # EPG: "Everything PG" Exporter for Prometheus
 Scrapes standard Patroni stats and executes custom Postgresql queries deemed essential to monitoring by Aware SRE for active Patroni clusters. Exports metrics via HTTP for Prometheus consumption on port 9933.
