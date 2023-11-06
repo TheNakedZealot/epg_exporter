@@ -1,4 +1,4 @@
-module github.com/TheNakedZealot/epg_exporter
+module github.com/shrinedogg/epg_exporter
 
 go 1.19
 
