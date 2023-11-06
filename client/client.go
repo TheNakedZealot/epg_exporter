@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-resty/resty/v2"
 
-	"github.com/TheNakedZealot/epg_exporter/opts"
+	"github.com/shrinedogg/epg_exporter/opts"
 )
 
 type PatroniClient interface {
