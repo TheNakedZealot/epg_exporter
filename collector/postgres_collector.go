@@ -13,7 +13,7 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/TheNakedZealot/epg_exporter/client"
+	"github.com/shrinedogg/epg_exporter/client"
 
 	"github.com/prometheus/client_golang/prometheus"
 )
